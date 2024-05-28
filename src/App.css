@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Lato, sans-serif;
+  background-color: #f5f6f7;
+}
+img{
+  width: 20rem;
+}
+.ibm-logo-contenedor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+}
+.App{
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 7rem;
+}
+.contenedor-contador{
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
