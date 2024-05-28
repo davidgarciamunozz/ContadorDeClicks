@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CalculadoraReact/static/css/main.9c5b6fea.css",
+    "main.js": "/CalculadoraReact/static/js/main.15653131.js",
+    "static/media/ibm-logo.png": "/CalculadoraReact/static/media/ibm-logo.6f5b86441b4c7522d519.png",
+    "index.html": "/CalculadoraReact/index.html",
+    "main.9c5b6fea.css.map": "/CalculadoraReact/static/css/main.9c5b6fea.css.map",
+    "main.15653131.js.map": "/CalculadoraReact/static/js/main.15653131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5b6fea.css",
+    "static/js/main.15653131.js"
+  ]
+}
