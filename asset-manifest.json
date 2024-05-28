@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/CalculadoraReact/static/css/main.9c5b6fea.css",
-    "main.js": "/CalculadoraReact/static/js/main.15653131.js",
-    "static/media/ibm-logo.png": "/CalculadoraReact/static/media/ibm-logo.6f5b86441b4c7522d519.png",
-    "index.html": "/CalculadoraReact/index.html",
-    "main.9c5b6fea.css.map": "/CalculadoraReact/static/css/main.9c5b6fea.css.map",
-    "main.15653131.js.map": "/CalculadoraReact/static/js/main.15653131.js.map"
+    "main.css": "/ContadorDeClicks/static/css/main.9c5b6fea.css",
+    "main.js": "/ContadorDeClicks/static/js/main.193cec3c.js",
+    "static/media/ibm-logo.png": "/ContadorDeClicks/static/media/ibm-logo.6f5b86441b4c7522d519.png",
+    "index.html": "/ContadorDeClicks/index.html",
+    "main.9c5b6fea.css.map": "/ContadorDeClicks/static/css/main.9c5b6fea.css.map",
+    "main.193cec3c.js.map": "/ContadorDeClicks/static/js/main.193cec3c.js.map"
   },
   "entrypoints": [
     "static/css/main.9c5b6fea.css",
-    "static/js/main.15653131.js"
+    "static/js/main.193cec3c.js"
   ]
 }
